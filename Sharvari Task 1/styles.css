@@ -1,0 +1,53 @@
+body {
+    font-family: 'Times New Roman', sans-serif;
+    margin: 30;
+    padding: 30;
+    background-color: #ffffff;
+    
+  }
+  
+  header {
+
+    text-align: center;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 10px;
+  }
+  
+  header h1 {
+    margin:10;
+  }
+  
+  .texture-bg {
+    background: url('no.avif') repeat;
+  }
+  
+  #about, #skills, #projects, #resume, #contact {
+    margin: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 0 200px rgba(0, 0, 0, 0.1);
+  }
+  
+  #about img {
+    border-radius: 5%;
+    max-width: 200px;
+    border-radius: 5px;
+    box-shadow: 0 0 100px rgba(0, 0, 0, 0.1);
+  }
+  
+  .project {
+    margin-bottom: 20px;
+   
+  }
+  
+
+
+  footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #000000;
+  }
+  
